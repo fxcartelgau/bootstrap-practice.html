@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.threemen {
+    width: 120vw;
+    height: 60vw;
+}
+
+.twogirls {
+    width: 120vw;
+    height: 60vw;
+}
+
+.oneguy {
+    width: 120vw;
+    height: 60vw;
+}
